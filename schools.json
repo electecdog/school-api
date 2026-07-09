@@ -16,6 +16,14 @@
       "nature": "双一流 / 985",
       "population": "三万人",
       "score": 635
-    }
+    },
+    {
+       id: '3',
+       name: '西南交通大学',
+       badge: "https://fastly.jsdelivr.net/gh/electecdog/school-api@main/images/xinan.png",
+       nature: '211',
+       population: '两万五',
+       score: 620
+     }
   ]
 }
