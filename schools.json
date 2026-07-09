@@ -5,7 +5,7 @@
       "id": "1",
       "name": "电子科技大学",
       "badge": "https://fastly.jsdelivr.net/gh/electecdog/school-api@main/images/uestc.png",
-      "nature": "双一流 / 985",
+      "nature": "985",
       "population": "两万人",
       "score": 640
     },
@@ -13,7 +13,7 @@
       "id": "2",
       "name": "四川大学",
       "badge": "https://fastly.jsdelivr.net/gh/electecdog/school-api@main/images/sichuan.png",
-      "nature": "双一流 / 985",
+      "nature": "985",
       "population": "三万人",
       "score": 635
     },
